@@ -62,6 +62,7 @@ p#Menu-Text1 {
   margin-bottom:15px;
   padding:10px;
   padding-top:40px;
+  min-height: 185px;
 }
 
 p#Menu-Text2 {
@@ -74,9 +75,25 @@ p#Menu-Text2 {
   margin-left:15px;
   margin-bottom:15px;
   padding:10px;
+  padding-right: 50px;
   padding-top:40px;
+  min-height: 185px;
 }
 
+p#Menu-Text3 {
+  font-size: 100%;
+  color: black;
+  margin:auto;
+  background-color: gray;
+  border: 3px solid black;
+  margin-right:15px;
+  margin-left:15px;
+  margin-bottom:15px;
+  padding:10px;
+  padding-right: 50px;
+  padding-top:40px;
+  min-height: 185px;
+}
 
 /* Simple Responsive Framework. */
 .row {
